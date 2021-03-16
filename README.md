@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning TinyML
 - 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me ...
-<a href="default.asp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="width:42px;height:42px;"></a>
+
+<a href="https://www.linkedin.com/in/hatem-zehir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="width:42px;height:42px;"></a>
 <!---
 Hatem-Zehir/Hatem-Zehir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
