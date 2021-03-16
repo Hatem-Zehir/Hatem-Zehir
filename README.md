@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hatem-Zehir
 - 👀 I’m interested in machine learning, computer vision, Arduino, Raspberry Pi, ESP32 and microcontrollers
 - 🌱 I’m currently learning TinyML
-- 💞️ I’m looking to collaborate on some small projects
+- 🤝 I’m looking to collaborate on some small projects
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hatem-zehir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="width:42px;height:42px;"></a>
