@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hatem-Zehir
-- 👀 I’m interested in machine learning, computer vision, Arduino, Raspberry Pi, ESP32 and microcontrollers
+- 👀 I’m interested in machine learning, computer vision, Internet of things, Arduino, Raspberry Pi, ESP32 and microcontrollers
 - 🌱 I’m currently learning TinyML
 - 🤝 I’m looking to collaborate on some small projects
 
