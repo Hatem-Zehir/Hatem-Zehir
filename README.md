@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Hatem-Zehir
+👋 Hi, I’m @Hatem-Zehir, a freshly graduated electronic engineer (Instrumentation). Mastering several programming languages (Python, MicroPython, C/C++, Assembly and VHDL), PLC and microcontrollers (PIC, AVR, Arduino, ESP32), I also have some skills in machine learning and computer vision.
+
 - 👀 I’m interested in machine learning, computer vision, Internet of things, Arduino, Raspberry Pi, ESP32 and microcontrollers
 - 🤝 I’m looking to collaborate on IoT or embedded systems projects
 
