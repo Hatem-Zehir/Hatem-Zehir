@@ -4,6 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hatem-zehir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://mobde3eln.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.facebook.com/hatem.zehir/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.hackerrank.com/hatem_zehir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 </p>
