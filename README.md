@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, computer vision, Internet of things, Arduino, Raspberry Pi, ESP32 and microcontrollers
 - 🤝 I’m looking to collaborate on IoT or embedded systems projects
 
-- ** Programming languages **
+- **Programming languages**
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> 
 
 <p align="center">
