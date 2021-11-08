@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/hatem.zehir/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.hackerrank.com/hatem_zehir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 
-![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir)
+<div align="center">![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir)</div>
 
 <!---
 Hatem-Zehir/Hatem-Zehir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
