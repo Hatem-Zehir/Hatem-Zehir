@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/hatem-zehir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.hackerrank.com/hatem_zehir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)]
 
 ![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir)
 
