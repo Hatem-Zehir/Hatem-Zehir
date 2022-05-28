@@ -1,4 +1,6 @@
-👋 Hi, I’m @Hatem-Zehir, a freshly graduated electronics and instrumentation engineer. Mastering several programming languages (Python, MicroPython, C/C++, Assembly and VHDL), PLC and microcontrollers (PIC, AVR, Arduino, ESP32), I also have some skills in machine learning and computer vision.
+Hi, I’m @Hatem-Zehir, I have a passion for pattern recognition and machine learning. In the course of my engineering education, I focused on electronics and later on instrumentation. Very recently, I started as a PhD student on Biometric Security.
+
+I master several programming languages (Python, MicroPython, C/C++, Assembly and VHDL) and microcontrollers (PIC, AVR, Arduino, ESP32, STM32).
 
 **Programming languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
