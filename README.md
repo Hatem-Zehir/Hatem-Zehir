@@ -1,6 +1,8 @@
-Greetings, my name is @Hatem-Zehir, and I possess a strong enthusiasm for pattern recognition and machine learning. My educational background in engineering has been dedicated to electronics and instrumentation, and I am currently a PhD candidate in Biometric Security.
+Hello, my name is @Hatem-Zehir, and I'm excited to share my passion for pattern recognition and deep learning with you. With a strong background in engineering, my focus has been on electronics and instrumentation, and I'm currently pursuing a PhD in Biometric Security.
 
-Proficient in various programming languages, including Python, MicroPython, C/C++, Assembly, and VHDL, I am also skilled in the utilization of microcontrollers such as PIC, AVR, Arduino, ESP32, and STM32.
+As someone with a love for programming, I'm proficient in various languages, including Python, MicroPython, C/C++, Assembly, and VHDL. In addition, I have expertise in the utilization of microcontrollers such as PIC, AVR, Arduino, ESP32, and STM32, which are commonly used in embedded systems.
+
+I believe that pattern recognition and deep learning have the potential to revolutionize many industries, from healthcare to finance to transportation. As a PhD candidate in Biometric Security, I'm particularly interested in exploring how machine learning can help improve security systems that rely on biometric data.
 
 **Programming languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
