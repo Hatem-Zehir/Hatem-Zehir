@@ -4,14 +4,14 @@ As someone with a love for programming, I'm proficient in various languages, inc
 
 I believe that pattern recognition and deep learning have the potential to revolutionize many industries, from healthcare to finance to transportation. As a PhD candidate in Biometric Security, I'm particularly interested in exploring how machine learning can help improve security systems that rely on biometric data.
 
-**Programming languages:**  
+<!-- **Programming languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Social Accounts:**  
 <a href="https://www.linkedin.com/in/hatem-zehir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.hackerrank.com/hatem_zehir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+<a href="https://www.hackerrank.com/hatem_zehir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact) -->
 
