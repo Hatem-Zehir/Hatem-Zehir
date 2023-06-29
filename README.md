@@ -1,4 +1,4 @@
-Hello, my name is @Hatem-Zehir, and I'm excited to share my passion for pattern recognition and deep learning with you. With a strong background in engineering, my focus has been on electronics and instrumentation, and I'm currently pursuing a PhD in Biometric Security.
+Hello, my name is @Hatem-Zehir, and I'm excited to share my passion for pattern recognition and deep learning with you. With a strong background in engineering, my focus has been on electronics and electrical engineering, and I'm currently pursuing a PhD in Biometric Security.
 
 As someone with a love for programming, I'm proficient in various languages, including Python, MicroPython, C/C++, Assembly, and VHDL. In addition, I have expertise in the utilization of microcontrollers such as PIC, AVR, Arduino, ESP32, and STM32, which are commonly used in embedded systems.
 
