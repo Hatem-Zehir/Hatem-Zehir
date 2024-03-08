@@ -7,6 +7,8 @@ I believe that pattern recognition and deep learning have the potential to revol
 # 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hatem-Zehir&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir)
+
 
 <!-- **Programming languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
