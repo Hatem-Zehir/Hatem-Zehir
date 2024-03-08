@@ -4,7 +4,7 @@ As someone with a love for programming, I'm proficient in various languages, inc
 
 I believe that pattern recognition and deep learning have the potential to revolutionize many industries, from healthcare to finance to transportation. As a PhD candidate in Biometric Security, I'm particularly interested in exploring how machine learning can help improve security systems that rely on biometric data.
 
-[![trophy](https://github-profile-trophy.vercel.app/hatem-zehir=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Hatem-Zehir=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- **Programming languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
