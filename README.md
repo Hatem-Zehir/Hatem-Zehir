@@ -11,10 +11,7 @@ I believe that pattern recognition and deep learning have the potential to revol
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hatem-Zehir" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact&langs_count=6" style="flex: 1;">
-</div>
+![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
 
 
 
