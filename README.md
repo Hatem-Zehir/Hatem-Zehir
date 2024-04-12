@@ -1,7 +1,7 @@
 ![Hatem's card name](https://cardivo.vercel.app/api?name=Hatem%20Zehir&description=I%20am%20passionate%20about%20the%20intersection%20of%20biometrics,%20embedded%20systems,%20and%20deep%20learning,%20specializing%20in%20developing%20secure%20and%20efficient%20solutions%20using%20biomedical%20signal%20processing%20and%20advanced%20deep%20learning%20techniques.%20Proficient%20in%20Python,%20C,%20C++,%20and%20Assembly,%20I%20excel%20in%20developing%20biometric%20systems,%20with%20a%20focus%20on%20security%20and%20efficiency.%20My%20expertise%20extends%20to%20designing%20and%20implementing%20algorithms%20for%20embedded%20platforms,%20optimizing%20performance%20and%20resource%20utilization.&image=https://www.ultralibrarian.com/wp-content/uploads/2022/06/shutterstock_13717364781.jpg&pattern=leaf&colorPattern=%23eaeaea&linkedin=hatem-zehir&github=Hatem-Zehir)
 
 
-### Languages and Tools:
+# Languages and Tools:
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -18,12 +18,11 @@
 </p>
 
 
-# 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hatem-Zehir&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 # GitHub stats
 ![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
+
+# 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hatem-Zehir&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
