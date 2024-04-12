@@ -7,11 +7,7 @@
 # GitHub stats
 ![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
 
-![Hatem's card name](https://cardivo.vercel.app/api?name=[Hatem Zehir]&description=[Hello, my name is @Hatem-Zehir, and I'm excited to share my passion for pattern recognition and deep learning with you. With a strong background in engineering, my focus has been on electronics and electrical engineering, and I'm currently pursuing a PhD in Biometric Security.
-
-As someone with a love for programming, I'm proficient in various languages, including Python, MicroPython, C/C++, Assembly, and VHDL. In addition, I have expertise in the utilization of microcontrollers such as PIC, AVR, Arduino, ESP32, and STM32, which are commonly used in embedded systems.
-
-I believe that pattern recognition and deep learning have the potential to revolutionize many industries, from healthcare to finance to transportation. As a PhD candidate in Biometric Security, I'm particularly interested in exploring how machine learning can help improve security systems that rely on biometric data.]&image=https://i.pinimg.com/736x/c0/74/9b/c0749b7cc401421662ae901ec8f9f660.jpg)
+![Hatem's card name](https://cardivo.vercel.app/api?name=[Hatem Zehir]&description=[Hello, my name is @Hatem-Zehir, and I'm excited to share my passion for pattern recognition and deep learning with you. With a strong background in engineering, my focus has been on electronics and electrical engineering, and I'm currently pursuing a PhD in Biometric Security. As someone with a love for programming, I'm proficient in various languages, including Python, MicroPython, C/C++, Assembly, and VHDL. In addition, I have expertise in the utilization of microcontrollers such as PIC, AVR, Arduino, ESP32, and STM32, which are commonly used in embedded systems. I believe that pattern recognition and deep learning have the potential to revolutionize many industries, from healthcare to finance to transportation. As a PhD candidate in Biometric Security, I'm particularly interested in exploring how machine learning can help improve security systems that rely on biometric data.]&image=https://i.pinimg.com/736x/c0/74/9b/c0749b7cc401421662ae901ec8f9f660.jpg)
 
 
 
