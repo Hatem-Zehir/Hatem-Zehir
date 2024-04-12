@@ -9,6 +9,8 @@
 
 ![Hatem's card name](https://cardivo.vercel.app/api?name=[Hatem Zehir]&description=[q]&image=https://i.pinimg.com/736x/c0/74/9b/c0749b7cc401421662ae901ec8f9f660.jpg)
 
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[name]&description=[description]&image=https://i.pinimg.com/736x/c0/74/9b/c0749b7cc401421662ae901ec8f9f660.jpg)
+
 
 
 
