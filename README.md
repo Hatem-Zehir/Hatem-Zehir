@@ -11,6 +11,8 @@ I believe that pattern recognition and deep learning have the potential to revol
 # GitHub stats
 ![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatem-Zehir) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact)
 
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[name]&description=[description]&image=[image_url])
+
 
 
 
