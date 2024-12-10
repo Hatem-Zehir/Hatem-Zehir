@@ -12,7 +12,7 @@ I have authored several peer-reviewed journal articles and conference papers on 
 
 # 🔧 Technologies I Use:
 - Programming: Python, C, C++, Assembly
-- Tools & Frameworks: TensorFlow, Edge Impulse, MATLAB, TinyML
+- Tools & Frameworks: TensorFlow, Edge Impulse, MATLAB, TinyML, FreeRTOS, IoT
 - Embedded Platforms: ESP32, STM32, Arduino, Raspberry Pi
 
 # 🌱 Currently Working On:
