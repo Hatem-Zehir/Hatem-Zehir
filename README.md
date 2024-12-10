@@ -18,5 +18,5 @@ I have authored several peer-reviewed journal articles and conference papers on 
 # 🌱 Currently Working On:
 I am actively working on healthcare solutions optimized for embedded platforms, integrating TinyML and efficient deep learning architectures to enhance the performance of the proposed system.
 
-# 🤝 Collaboration Opportunities:
+# 🤝 Open to Collaboration:
 I’m always excited to collaborate on projects related to Deep Learning, TinyML, and AI-powered healthcare solutions.
