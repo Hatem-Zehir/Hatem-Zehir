@@ -1,3 +1,4 @@
+# About Me 👋
 I am a researcher and developer specializing in deep learning, biometric systems, and TinyML applications. My work bridges edge AI algorithms with practical, real-world implementations, particularly in healthcare and embedded systems.
 
 # 🔬 Research Interests:
@@ -15,7 +16,7 @@ I have authored several peer-reviewed journal articles and conference papers on 
 - Embedded Platforms: ESP32, STM32, Arduino, Raspberry Pi
 
 # 🌱 Currently Working On:
-- I am actively working on healthcare solutions optimized for embedded platforms, integrating TinyML and efficient deep learning architectures to enhance the performance of the proposed system.
+I am actively working on healthcare solutions optimized for embedded platforms, integrating TinyML and efficient deep learning architectures to enhance the performance of the proposed system.
 
 # 🤝 Collaboration Opportunities:
 I’m always excited to collaborate on projects related to Deep Learning, TinyML, and AI-powered healthcare solutions.
