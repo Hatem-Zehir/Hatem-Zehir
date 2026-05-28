@@ -1,102 +1,73 @@
 <h1 align="center">Hatem ZEHIR</h1>
+<h3 align="center">PhD · Biometrics · Deep Learning · Edge AI</h3>
 
 <p align="center">
-  <b>PhD in Biometrics · Deep Learning · Edge AI · Signal Processing</b><br/>
-  <i>Badji Mokhtar – Annaba University · Very Honorable with Committee Praise</i>
-</p>
-
-<p align="center">
-  <a href="https://hatemzehir.com">
-    <img src="https://img.shields.io/badge/Website-hatemzehir.com-0A1628?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hatem-zehir/">
-    <img src="https://img.shields.io/badge/LinkedIn-hatem--zehir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=WrOVooEAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Hatem-Zehir">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-3578-2634">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--3578--2634-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="mailto:hatem.zehir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hatem.zehir@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://hatemzehir.com">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/hatem-zehir/">LinkedIn</a> •
+  <a href="https://scholar.google.com/citations?user=WrOVooEAAAAJ">Google Scholar</a> •
+  <a href="https://www.researchgate.net/profile/Hatem-Zehir">ResearchGate</a> •
+  <a href="https://orcid.org/0000-0002-3578-2634">ORCID</a>
 </p>
 
 ---
-
-## About
 
 I build AI systems that identify people from physiological and behavioural signals —
-and deploy them on the hardware that already exists in the field.
+and deploy them on the hardware that actually exists in the field.
 
-My PhD research combined **ECG and voice** in a multimodal biometric system using
-score-level fusion, consistently outperforming either modality alone. In parallel,
-I developed hardware-optimised CNN and GRU architectures that run directly on
-**ESP32 and STM32 microcontrollers** via TinyML — no cloud, no GPU required.
+My PhD (Badji Mokhtar – Annaba University, 2025 — *Very Honorable with Committee Praise*)
+focused on combining ECG and voice in a multimodal biometric system using score-level
+fusion, achieving identification performance that consistently outperforms either modality
+alone. In parallel, I developed hardware-optimised CNN and GRU architectures that run
+directly on ESP32 and STM32 microcontrollers using TinyML — no cloud, no server,
+no GPU required.
 
-I'm currently a **Research Fellow** on an AI-Enhanced Particle Image Velocimetry
-project in collaboration with **Beijing Institute of Technology** (Prof. Wu Yui),
-applying signal processing and deep learning to fluid dynamics and combustion data.
-
-📄 **9 journal articles · 6 conference papers · Q1/Q2 journals · IEEE**  
-🔍 Open to **postdoctoral positions** in biometrics, edge AI, or related fields
+**9 journal articles · 6 conference papers · IEEE · Q1/Q2 journals · 2 microcontrollers**
 
 ---
 
-## Research Interests
+## Research Focus
 
-```
-🫀 Biometric Identification     →  ECG, voice, handwritten signatures, multimodal fusion
-🧠 Deep Learning                →  CNNs, GRUs, LSTMs for time-series and signal data
-⚡ TinyML / Edge AI             →  Model quantization, TFLite Micro, ESP32/STM32 deployment
-📡 Signal Processing            →  EMD, Hilbert-Huang Transform, MFCC, spectrogram analysis
-🏥 Medical AI                   →  Embedded healthcare systems, open medical imaging datasets
-🔥 Fluid Dynamics AI (current)  →  PIV processing, combustion diagnostics, NASA methodologies
-```
-
----
-
-## Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,tensorflow,arduino,raspberrypi,linux,git,vscode&theme=dark" />
-  </a>
-</p>
+| Area | What I work on |
+|---|---|
+| **Biometric identification** | ECG, voice, handwritten signatures, multimodal fusion |
+| **Deep learning** | CNNs, GRUs, LSTMs for time-series and signal data |
+| **Edge AI / TinyML** | Model quantization, TFLite Micro, ESP32, STM32 deployment |
+| **Signal processing** | EMD, Hilbert-Huang Transform, MFCC, spectrogram analysis |
+| **Medical AI** | Healthcare-optimised embedded systems, blood typing datasets |
 
 ---
 
 ## Selected Publications
 
-| Year | Title | Venue |
-|------|-------|-------|
-| 2025 | Multimodal ECG + Voice biometric fusion | *Arabian Journal for Science & Engineering* (Q2) |
-| 2025 | EMD + GRU for ECG biometric identification | *Multimedia Tools and Applications* (Q1) |
-| 2025 | Hardware-optimised CNN on ESP32 | *IJSISE* |
-| 2025 | ABO-BTI open blood typing image dataset | *Advances in EEE* |
-| 2024 | Involutional neural networks for ECG biometrics | *Evolving Systems* (Q2) |
-| 2023 | ECG biometrics for healthcare decision-making | *IEEE DASA* |
+- **Unifying heartbeats and vocal waves: An approach to multimodal biometric identification at the score level** — *Arabian Journal for Science and Engineering*, 2025
+- **EMD based biometric identification system from electrocardiogram signals using GRU neural networks** — *Multimedia Tools and Applications* (Q1), 2025
+- **Hardware-optimised CNN architecture for ECG biometric identification on embedded systems** — *IJSISE*, 2025
+- **Healthcare Decision-Making with an ECG-Based Biometric System** — *IEEE DASA*, 2023
+- **ABO-BTI: An Open-Source ABO Blood Typing Image Dataset for Medical AI Applications** — *Advances in EEE*, 2025
 
-→ Full list on [Google Scholar](https://scholar.google.com/citations?user=WrOVooEAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Hatem-Zehir)
+→ Full list on [Google Scholar](https://scholar.google.com/citations?user=WrOVooEAAAAJ) 
+and [ResearchGate](https://www.researchgate.net/profile/Hatem-Zehir)
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=Hatem-Zehir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatem-Zehir&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+```python
+languages   = ["Python", "C", "C++", "MATLAB", "Assembly"]
+frameworks  = ["TensorFlow", "TFLite Micro", "Edge Impulse", "FreeRTOS"]
+hardware    = ["ESP32", "STM32", "Arduino", "Raspberry Pi"]
+domains     = ["Biometrics", "TinyML", "Signal Processing", "Embedded AI"]
+```
 
 ---
 
-<p align="center">
-  <i>"Two imperfect signals, carefully combined, are stronger than one perfect one."</i>
-</p>
+## Currently
+
+- 🔬 Research Fellow on AI-Enhanced PIV processing — Beijing Institute of Technology 
+  (collaborative project)
+- 🎓 Open to **postdoctoral positions** in biometrics, edge AI, or related fields
+- 📝 Peer reviewer — *Scientific Reports* · *BMC Cardiovascular Disorders*
+
+---
+
+*Peer reviewer for Scientific Reports · BMC Cardiovascular Disorders*
