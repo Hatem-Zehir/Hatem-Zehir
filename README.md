@@ -21,7 +21,7 @@ alone. In parallel, I developed hardware-optimised CNN and GRU architectures tha
 directly on ESP32 and STM32 microcontrollers using TinyML — no cloud, no server,
 no GPU required.
 
-**9 journal articles · 6 conference papers · IEEE · Q1/Q2 journals · 2 microcontrollers**
+**10 journal articles · 6 conference papers**
 
 ---
 
