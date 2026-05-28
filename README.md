@@ -69,5 +69,3 @@ domains     = ["Biometrics", "TinyML", "Signal Processing", "Embedded AI"]
 - 📝 Peer reviewer — *Scientific Reports* · *BMC Cardiovascular Disorders*
 
 ---
-
-*Peer reviewer for Scientific Reports · BMC Cardiovascular Disorders*
