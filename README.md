@@ -67,5 +67,3 @@ domains     = ["Biometrics", "TinyML", "Signal Processing", "Embedded AI"]
   (collaborative project)
 - 🎓 Open to **postdoctoral positions** in biometrics, edge AI, or related fields
 - 📝 Peer reviewer — *Scientific Reports* · *BMC Cardiovascular Disorders*
-
----
